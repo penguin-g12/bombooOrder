@@ -1,10 +1,11 @@
 # bombooOrder
 
+### Install dependencies
 ```
 python3 -m pip install web3
 python3 -m pip install zero_ex
 ```
-
+### Use
 Send test default post
 ```
 ./main.py postorder
